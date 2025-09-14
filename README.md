@@ -9,7 +9,7 @@ This project is a **Proof-of-Donation Badge** system built as an ERC721 NFT smar
 - Metadata (via `baseURI`) allows linking to JSON files that display donation details or badge artwork.
  
 ### Key Features
-
+ 
 - **NFT Minting:** Every donation generates a unique NFT badge.
 - **On-Chain Donation Record:** Each NFT stores donation details including amount and timestamp.
 - **Cause-Based Metadata:** Metadata is organized per cause (e.g., `baseURI/causeId/tokenId.json`).
